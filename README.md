@@ -72,7 +72,7 @@ python3 query.py  -q "What is the store policy for returns?"
 
 
 ## Google Colab Notebook
-You can also run the code in a Google Colab notebook. The notebook is available [here](AI_fashion_assistant_simple_RAG.ipynb).
+You can also run the code in a Google Colab notebook. The notebook is available [here](AI_fashion_assistant.ipynb).
 
 
 
